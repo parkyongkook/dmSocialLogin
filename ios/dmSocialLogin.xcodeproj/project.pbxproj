@@ -44,16 +44,32 @@
 		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* dmSocialLoginTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* dmSocialLoginTests.m */; };
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
+		3DCA5B9412B41ADB8C9603D1 /* libPods-dmSocialLoginTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 629989D25C570A114EE77549 /* libPods-dmSocialLoginTests.a */; };
 		4840B023D04E4E969128A622 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 49EBBD2205004E2C9257CB9C /* Foundation.ttf */; };
 		78483FAEDE674B82977CF8A8 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 077718AD2A4F4FB994AB1047 /* Feather.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
+		9F99DF5B6AB24F94B4854189 /* libRCTFBSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 30BF63ECB4E64528BD9E32F0 /* libRCTFBSDK.a */; };
+		A6C273F94875E63F313D4B26 /* libPods-dmSocialLogin-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 04C4E1C54B836473C23D201F /* libPods-dmSocialLogin-tvOS.a */; };
 		AC61F739D01B450394153397 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E5DF487423C042E6BB2550CE /* AntDesign.ttf */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
+		B04A030ECFC1658B7417B5CE /* libPods-dmSocialLogin.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 64184A6619B9738F1869E653 /* libPods-dmSocialLogin.a */; };
 		B76DB6A4FD264822A088D56D /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DC6A521279594975A11516DD /* FontAwesome.ttf */; };
 		CDAB3E77802B4D10965AC7DD /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 89B6D322FE104D778F9BDF7D /* FontAwesome5_Brands.ttf */; };
 		D4954490807E48FAA8118555 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF11C19A017A473E96C6571A /* SimpleLineIcons.ttf */; };
+		D87A4F9F349E46E38C18BD0C /* libPods-dmSocialLogin-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A923B82DC7745397109A850 /* libPods-dmSocialLogin-tvOSTests.a */; };
 		DBD2F3EAB9C046F0B04BEAA8 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7EE66BCCDFAC496EA85211CE /* MaterialCommunityIcons.ttf */; };
 		DC1A11734AC5422A9161ACCF /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 72CF0FC543684024B4251B15 /* libRNVectorIcons.a */; };
+		F7B859162199181100FB7CA7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F7B859152199181100FB7CA7 /* GoogleService-Info.plist */; };
+		F7B8596121991A2800FB7CA7 /* GoogleSignIn.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F7B8596021991A2800FB7CA7 /* GoogleSignIn.bundle */; };
+		F7B859D72199226300FB7CA7 /* LocalAuthentication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7B859AD2199226200FB7CA7 /* LocalAuthentication.framework */; };
+		F7B859D92199226B00FB7CA7 /* SafariServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7B859D82199226B00FB7CA7 /* SafariServices.framework */; };
+		F7B859DB2199227500FB7CA7 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7B859DA2199227500FB7CA7 /* SystemConfiguration.framework */; };
+		F7B85A4221993C1700FB7CA7 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7B85A1821993C1700FB7CA7 /* AddressBook.framework */; };
+		F7B85A4421993C2A00FB7CA7 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = F7B85A4321993C2A00FB7CA7 /* libz.tbd */; };
+		F7E0627B21954A2C0067B1A3 /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7E0627721954A2A0067B1A3 /* FBSDKLoginKit.framework */; };
+		F7E0627C21954A2C0067B1A3 /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7E0627821954A2B0067B1A3 /* FBSDKCoreKit.framework */; };
+		F7E0627D21954A2C0067B1A3 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7E0627921954A2C0067B1A3 /* Bolts.framework */; };
+		F7E0627E21954A2C0067B1A3 /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F7E0627A21954A2C0067B1A3 /* FBSDKShareKit.framework */; };
 		F97B3B0FA3B54D8AA9BFAE6C /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EE8E395899D744C183F223E8 /* MaterialIcons.ttf */; };
 /* End PBXBuildFile section */
 
@@ -331,6 +347,13 @@
 			remoteGlobalIDString = 358F4ED71D1E81A9004DF814;
 			remoteInfo = RCTBlob;
 		};
+		F721DC6D21951D2500B7CB38 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3D1364C0EB664129B82479AD /* RCTFBSDK.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 9350E0F11CE3B0920041D815;
+			remoteInfo = RCTFBSDK;
+		};
 		F7CD34802192BF0300448725 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 802857F002F847CA8594255E /* RNVectorIcons.xcodeproj */;
@@ -358,7 +381,9 @@
 		00E356EE1AD99517003FC87E /* dmSocialLoginTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dmSocialLoginTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* dmSocialLoginTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dmSocialLoginTests.m; sourceTree = "<group>"; };
+		04C4E1C54B836473C23D201F /* libPods-dmSocialLogin-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-dmSocialLogin-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		077718AD2A4F4FB994AB1047 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		0DA9BAC3D5F2CD7176A50891 /* Pods-dmSocialLogin-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dmSocialLogin-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-dmSocialLogin-tvOS/Pods-dmSocialLogin-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* dmSocialLogin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = dmSocialLogin.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -372,26 +397,50 @@
 		2D02E47B1E0B4A5D006451C7 /* dmSocialLogin-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dmSocialLogin-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* dmSocialLogin-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "dmSocialLogin-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		30BF63ECB4E64528BD9E32F0 /* libRCTFBSDK.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRCTFBSDK.a; sourceTree = "<group>"; };
+		3A923B82DC7745397109A850 /* libPods-dmSocialLogin-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-dmSocialLogin-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D1364C0EB664129B82479AD /* RCTFBSDK.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RCTFBSDK.xcodeproj; path = "../node_modules/react-native-fbsdk/ios/RCTFBSDK.xcodeproj"; sourceTree = "<group>"; };
 		49EBBD2205004E2C9257CB9C /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		4F42DEDED7FC44AF835BFC26 /* libRNGoogleSignin.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNGoogleSignin.a; sourceTree = "<group>"; };
+		4F9FD62E47C6596A69E976A8 /* Pods-dmSocialLogin-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dmSocialLogin-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-dmSocialLogin-tvOSTests/Pods-dmSocialLogin-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		4FA1C6155C7C47809DCC5F12 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		56172DD6B95E3047EBEC45BB /* Pods-dmSocialLogin.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dmSocialLogin.release.xcconfig"; path = "Pods/Target Support Files/Pods-dmSocialLogin/Pods-dmSocialLogin.release.xcconfig"; sourceTree = "<group>"; };
 		5D1524058236488EA1DB7740 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
+		629989D25C570A114EE77549 /* libPods-dmSocialLoginTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-dmSocialLoginTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		64184A6619B9738F1869E653 /* libPods-dmSocialLogin.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-dmSocialLogin.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C68C022643B4D6193726334 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		6C9B2544612F67C4B28B06ED /* Pods-dmSocialLoginTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dmSocialLoginTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-dmSocialLoginTests/Pods-dmSocialLoginTests.release.xcconfig"; sourceTree = "<group>"; };
+		70332A37EEE29216802A690A /* Pods-dmSocialLogin-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dmSocialLogin-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-dmSocialLogin-tvOSTests/Pods-dmSocialLogin-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		72CF0FC543684024B4251B15 /* libRNVectorIcons.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNVectorIcons.a; sourceTree = "<group>"; };
 		77C1A18979A64A2191F17CD9 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		78C3163263D84FC6806CB184 /* libRNVectorIcons-tvOS.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = "libRNVectorIcons-tvOS.a"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		7EE66BCCDFAC496EA85211CE /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		802857F002F847CA8594255E /* RNVectorIcons.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNVectorIcons.xcodeproj; path = "../node_modules/react-native-vector-icons/RNVectorIcons.xcodeproj"; sourceTree = "<group>"; };
+		82C13FDCEE96388933E2E436 /* Pods-dmSocialLogin.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dmSocialLogin.debug.xcconfig"; path = "Pods/Target Support Files/Pods-dmSocialLogin/Pods-dmSocialLogin.debug.xcconfig"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		89B6D322FE104D778F9BDF7D /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
 		CA6A2A7C9FB9449AA1BDB01E /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		D5BCDE2C18DC7AD53F4B68A5 /* Pods-dmSocialLogin-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dmSocialLogin-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-dmSocialLogin-tvOS/Pods-dmSocialLogin-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		DC6A521279594975A11516DD /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		E5DF487423C042E6BB2550CE /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 		EC0377E553B1440781DB0EE1 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		EE8E395899D744C183F223E8 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		EF11C19A017A473E96C6571A /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		F22B1FB07665E5D5CF0A103D /* Pods-dmSocialLoginTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dmSocialLoginTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-dmSocialLoginTests/Pods-dmSocialLoginTests.debug.xcconfig"; sourceTree = "<group>"; };
+		F7B859152199181100FB7CA7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		F7B8596021991A2800FB7CA7 /* GoogleSignIn.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = GoogleSignIn.bundle; path = ../../../Downloads/google_signin_sdk_4_3_0/google_signin_sdk_4_3_0/GoogleSignIn.bundle; sourceTree = "<group>"; };
+		F7B859AD2199226200FB7CA7 /* LocalAuthentication.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LocalAuthentication.framework; path = System/Library/Frameworks/LocalAuthentication.framework; sourceTree = SDKROOT; };
+		F7B859D82199226B00FB7CA7 /* SafariServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SafariServices.framework; path = System/Library/Frameworks/SafariServices.framework; sourceTree = SDKROOT; };
+		F7B859DA2199227500FB7CA7 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		F7B85A1821993C1700FB7CA7 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		F7B85A4321993C2A00FB7CA7 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		F7E0627721954A2A0067B1A3 /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKLoginKit.framework; sourceTree = "<group>"; };
+		F7E0627821954A2B0067B1A3 /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
+		F7E0627921954A2C0067B1A3 /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		F7E0627A21954A2C0067B1A3 /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKShareKit.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -400,6 +449,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */,
+				3DCA5B9412B41ADB8C9603D1 /* libPods-dmSocialLoginTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,8 +457,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7B85A4421993C2A00FB7CA7 /* libz.tbd in Frameworks */,
+				F7B85A4221993C1700FB7CA7 /* AddressBook.framework in Frameworks */,
+				F7B859DB2199227500FB7CA7 /* SystemConfiguration.framework in Frameworks */,
+				F7B859D92199226B00FB7CA7 /* SafariServices.framework in Frameworks */,
+				F7B859D72199226300FB7CA7 /* LocalAuthentication.framework in Frameworks */,
 				ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */,
 				11D1A2F320CAFA9E000508D9 /* libRCTAnimation.a in Frameworks */,
+				F7E0627B21954A2C0067B1A3 /* FBSDKLoginKit.framework in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
 				00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */,
 				00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */,
@@ -418,8 +474,13 @@
 				139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */,
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
+				F7E0627D21954A2C0067B1A3 /* Bolts.framework in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
+				F7E0627E21954A2C0067B1A3 /* FBSDKShareKit.framework in Frameworks */,
+				F7E0627C21954A2C0067B1A3 /* FBSDKCoreKit.framework in Frameworks */,
 				DC1A11734AC5422A9161ACCF /* libRNVectorIcons.a in Frameworks */,
+				9F99DF5B6AB24F94B4854189 /* libRCTFBSDK.a in Frameworks */,
+				B04A030ECFC1658B7417B5CE /* libPods-dmSocialLogin.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,6 +497,7 @@
 				2D02E4C71E0B4AEC006451C7 /* libRCTText-tvOS.a in Frameworks */,
 				2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */,
 				1AC741CB8D8D411388BDB2F4 /* libRNVectorIcons-tvOS.a in Frameworks */,
+				A6C273F94875E63F313D4B26 /* libPods-dmSocialLogin-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,6 +506,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */,
+				D87A4F9F349E46E38C18BD0C /* libPods-dmSocialLogin-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -532,6 +595,8 @@
 		13B07FAE1A68108700A75B9A /* dmSocialLogin */ = {
 			isa = PBXGroup;
 			children = (
+				F7B8596021991A2800FB7CA7 /* GoogleSignIn.bundle */,
+				F7B859152199181100FB7CA7 /* GoogleService-Info.plist */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
@@ -566,10 +631,38 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		285D194A5488699E4FB8DC08 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				82C13FDCEE96388933E2E436 /* Pods-dmSocialLogin.debug.xcconfig */,
+				56172DD6B95E3047EBEC45BB /* Pods-dmSocialLogin.release.xcconfig */,
+				0DA9BAC3D5F2CD7176A50891 /* Pods-dmSocialLogin-tvOS.debug.xcconfig */,
+				D5BCDE2C18DC7AD53F4B68A5 /* Pods-dmSocialLogin-tvOS.release.xcconfig */,
+				4F9FD62E47C6596A69E976A8 /* Pods-dmSocialLogin-tvOSTests.debug.xcconfig */,
+				70332A37EEE29216802A690A /* Pods-dmSocialLogin-tvOSTests.release.xcconfig */,
+				F22B1FB07665E5D5CF0A103D /* Pods-dmSocialLoginTests.debug.xcconfig */,
+				6C9B2544612F67C4B28B06ED /* Pods-dmSocialLoginTests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F7B85A4321993C2A00FB7CA7 /* libz.tbd */,
+				F7B85A1821993C1700FB7CA7 /* AddressBook.framework */,
+				F7B859DA2199227500FB7CA7 /* SystemConfiguration.framework */,
+				F7B859D82199226B00FB7CA7 /* SafariServices.framework */,
+				F7B859AD2199226200FB7CA7 /* LocalAuthentication.framework */,
+				F7E0627921954A2C0067B1A3 /* Bolts.framework */,
+				F7E0627821954A2B0067B1A3 /* FBSDKCoreKit.framework */,
+				F7E0627721954A2A0067B1A3 /* FBSDKLoginKit.framework */,
+				F7E0627A21954A2C0067B1A3 /* FBSDKShareKit.framework */,
 				2D16E6891FA4F8E400B85C8A /* libReact.a */,
+				64184A6619B9738F1869E653 /* libPods-dmSocialLogin.a */,
+				04C4E1C54B836473C23D201F /* libPods-dmSocialLogin-tvOS.a */,
+				3A923B82DC7745397109A850 /* libPods-dmSocialLogin-tvOSTests.a */,
+				629989D25C570A114EE77549 /* libPods-dmSocialLoginTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -630,6 +723,7 @@
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
 				802857F002F847CA8594255E /* RNVectorIcons.xcodeproj */,
+				3D1364C0EB664129B82479AD /* RCTFBSDK.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -653,6 +747,7 @@
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				424F460B1C394CD8A65FFBE8 /* Resources */,
 				F7CD34562192BEFE00448725 /* Recovered References */,
+				285D194A5488699E4FB8DC08 /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -679,11 +774,21 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		F721DC6A21951D2400B7CB38 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F721DC6E21951D2500B7CB38 /* libRCTFBSDK.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		F7CD34562192BEFE00448725 /* Recovered References */ = {
 			isa = PBXGroup;
 			children = (
 				72CF0FC543684024B4251B15 /* libRNVectorIcons.a */,
 				78C3163263D84FC6806CB184 /* libRNVectorIcons-tvOS.a */,
+				30BF63ECB4E64528BD9E32F0 /* libRCTFBSDK.a */,
+				4F42DEDED7FC44AF835BFC26 /* libRNGoogleSignin.a */,
 			);
 			name = "Recovered References";
 			sourceTree = "<group>";
@@ -704,6 +809,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "dmSocialLoginTests" */;
 			buildPhases = (
+				85CA67DBF642765B87C0CDB6 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
@@ -722,10 +828,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "dmSocialLogin" */;
 			buildPhases = (
+				FCA260EA9E118CE2D309B59C /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				14E777D5C1FCAD32507A4A2D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -740,6 +848,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "dmSocialLogin-tvOS" */;
 			buildPhases = (
+				4F7A35C2C7718F9D3DF7DD59 /* [CP] Check Pods Manifest.lock */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
 				2D02E4791E0B4A5D006451C7 /* Resources */,
@@ -758,6 +867,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "dmSocialLogin-tvOSTests" */;
 			buildPhases = (
+				1CD7343D0842BAFFC8E820F2 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
@@ -819,6 +929,10 @@
 				{
 					ProductGroup = ADBDB9201DFEBF0600ED6528 /* Products */;
 					ProjectRef = ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */;
+				},
+				{
+					ProductGroup = F721DC6A21951D2400B7CB38 /* Products */;
+					ProjectRef = 3D1364C0EB664129B82479AD /* RCTFBSDK.xcodeproj */;
 				},
 				{
 					ProductGroup = 00C302B61ABCB90400DB3ED1 /* Products */;
@@ -1131,6 +1245,13 @@
 			remoteRef = ADBDB9261DFEBF0700ED6528 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		F721DC6E21951D2500B7CB38 /* libRCTFBSDK.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRCTFBSDK.a;
+			remoteRef = F721DC6D21951D2500B7CB38 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 		F7CD34812192BF0300448725 /* libRNVectorIcons.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
@@ -1170,9 +1291,11 @@
 				2673ACAACABE4F668E1C216D /* FontAwesome5_Regular.ttf in Resources */,
 				0891E23355D644569DE24C5B /* FontAwesome5_Solid.ttf in Resources */,
 				4840B023D04E4E969128A622 /* Foundation.ttf in Resources */,
+				F7B859162199181100FB7CA7 /* GoogleService-Info.plist in Resources */,
 				0F7374727A1B477A9A9238AC /* Ionicons.ttf in Resources */,
 				DBD2F3EAB9C046F0B04BEAA8 /* MaterialCommunityIcons.ttf in Resources */,
 				F97B3B0FA3B54D8AA9BFAE6C /* MaterialIcons.ttf in Resources */,
+				F7B8596121991A2800FB7CA7 /* GoogleSignIn.bundle in Resources */,
 				198C9A28B5774DDBB2F85AA0 /* Octicons.ttf in Resources */,
 				D4954490807E48FAA8118555 /* SimpleLineIcons.ttf in Resources */,
 				061D2634C6C0468087B18E9B /* Zocial.ttf in Resources */,
@@ -1209,7 +1332,45 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
+		};
+		14E777D5C1FCAD32507A4A2D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-dmSocialLogin/Pods-dmSocialLogin-resources.sh",
+				"${PODS_ROOT}/GTMOAuth2/Source/Touch/GTMOAuth2ViewTouch.xib",
+				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GTMOAuth2ViewTouch.nib",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleSignIn.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-dmSocialLogin/Pods-dmSocialLogin-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1CD7343D0842BAFFC8E820F2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-dmSocialLogin-tvOSTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
 		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -1224,6 +1385,60 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+		};
+		4F7A35C2C7718F9D3DF7DD59 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-dmSocialLogin-tvOS-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		85CA67DBF642765B87C0CDB6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-dmSocialLoginTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FCA260EA9E118CE2D309B59C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-dmSocialLogin-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -1292,8 +1507,13 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F22B1FB07665E5D5CF0A103D /* Pods-dmSocialLoginTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -1301,12 +1521,16 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
+					"$(SRCROOT)/../node_modules/react-native-fbsdk/ios/RCTFBSDK/**",
+					"$(SRCROOT)/../node_modules/react-native-google-signin/ios/RNGoogleSignin",
 				);
 				INFOPLIST_FILE = dmSocialLoginTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
@@ -1322,18 +1546,27 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6C9B2544612F67C4B28B06ED /* Pods-dmSocialLoginTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
+					"$(SRCROOT)/../node_modules/react-native-fbsdk/ios/RCTFBSDK/**",
+					"$(SRCROOT)/../node_modules/react-native-google-signin/ios/RNGoogleSignin",
 				);
 				INFOPLIST_FILE = dmSocialLoginTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
@@ -1349,13 +1582,20 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 82C13FDCEE96388933E2E436 /* Pods-dmSocialLogin.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
+					"$(SRCROOT)/../node_modules/react-native-fbsdk/ios/RCTFBSDK/**",
+					"$(SRCROOT)/../node_modules/react-native-google-signin/ios/RNGoogleSignin",
 				);
 				INFOPLIST_FILE = dmSocialLogin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1372,12 +1612,19 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 56172DD6B95E3047EBEC45BB /* Pods-dmSocialLogin.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
+					"$(SRCROOT)/../node_modules/react-native-fbsdk/ios/RCTFBSDK/**",
+					"$(SRCROOT)/../node_modules/react-native-google-signin/ios/RNGoogleSignin",
 				);
 				INFOPLIST_FILE = dmSocialLogin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1394,6 +1641,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0DA9BAC3D5F2CD7176A50891 /* Pods-dmSocialLogin-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -1403,15 +1651,23 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
+					"$(SRCROOT)/../node_modules/react-native-fbsdk/ios/RCTFBSDK/**",
+					"$(SRCROOT)/../node_modules/react-native-google-signin/ios/RNGoogleSignin",
 				);
 				INFOPLIST_FILE = "dmSocialLogin-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
@@ -1429,6 +1685,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D5BCDE2C18DC7AD53F4B68A5 /* Pods-dmSocialLogin-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -1438,15 +1695,23 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
+					"$(SRCROOT)/../node_modules/react-native-fbsdk/ios/RCTFBSDK/**",
+					"$(SRCROOT)/../node_modules/react-native-google-signin/ios/RNGoogleSignin",
 				);
 				INFOPLIST_FILE = "dmSocialLogin-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
@@ -1464,6 +1729,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4F9FD62E47C6596A69E976A8 /* Pods-dmSocialLogin-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1472,15 +1738,23 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
+					"$(SRCROOT)/../node_modules/react-native-fbsdk/ios/RCTFBSDK/**",
+					"$(SRCROOT)/../node_modules/react-native-google-signin/ios/RNGoogleSignin",
 				);
 				INFOPLIST_FILE = "dmSocialLogin-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
@@ -1498,6 +1772,7 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 70332A37EEE29216802A690A /* Pods-dmSocialLogin-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -1506,15 +1781,23 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)/../node_modules/react-native-vector-icons/RNVectorIconsManager",
+					"$(SRCROOT)/../node_modules/react-native-fbsdk/ios/RCTFBSDK/**",
+					"$(SRCROOT)/../node_modules/react-native-google-signin/ios/RNGoogleSignin",
 				);
 				INFOPLIST_FILE = "dmSocialLogin-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);

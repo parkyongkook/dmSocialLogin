@@ -3,7 +3,9 @@ import { View, TextInput, Text, ActivityIndicator  } from 'react-native';
 import {Button, CheckBox} from 'native-base';
 import SignUp from './SignUp';
 import firebase from 'firebase';
-
+import FBLoginButton from './FBLoginButton'
+// import {  GoogleSigninButton } from 'react-native-google-signin';
+ 
 export default  class Login extends Component {
     constructor(props) {
         super(props);
@@ -18,6 +20,7 @@ export default  class Login extends Component {
 
         this.activateIndicator = this.activateIndicator.bind(this)
     }
+
 
     closeSignup(){
         this.setState({
@@ -72,8 +75,7 @@ export default  class Login extends Component {
         )
         .catch((err)=> {
             this.activateIndicator(false);
-            console.log(err)
-            
+
             if(err.code == 'auth/invalid-email'){
                 return alert('올바른 이메일을 입력해주세요')
             }
@@ -178,13 +180,7 @@ export default  class Login extends Component {
                 </View>   
 
                 <View style={{flex:6 }}>
-
-                    <Button
-                        style={{ width:'100%', height:40, justifyContent:'center', alignSelf:'center', backgroundColor:'#999', marginTop:10,}}
-                    >
-                        <Text>facebook</Text>
-                    </Button>
-
+                    <FBLoginButton/>
                     <Button
                         style={{width:'100%', height:40, justifyContent:'center', alignSelf:'center', backgroundColor:'#bbb', marginTop:10,}}
                     >
